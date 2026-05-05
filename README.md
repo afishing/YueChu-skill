@@ -4,6 +4,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-green.svg)](https://docs.openclaw.ai)
+[![SkillHub](https://img.shields.io/badge/SkillHub-yuechu--skill-orange.svg)](#-安装方式)
+
+> 📦 **一键安装**：在 SkillHub 中搜索并安装 `yuechu-skill`
 
 ---
 
@@ -93,6 +96,30 @@ dongfang-yuechu-perspective/
 
 ## 🚀 如何使用
 
+### 📦 安装方式
+
+#### 方式一：通过 SkillHub 一键安装（推荐）
+
+本技能已上架 **SkillHub**，可直接通过包名安装：
+
+```bash
+yuechu-skill
+```
+
+在 Qoder / OpenClaw 支持的环境中，打开 SkillHub 搜索 `yuechu-skill` 即可一键接入，无需手动克隆仓库。
+
+#### 方式二：手动克隆仓库
+
+```bash
+# GitHub
+git clone https://github.com/afishing/YueChu-skill.git
+
+# 或 Gitee（国内推荐）
+git clone https://gitee.com/afishing/YueChu-skill.git
+```
+
+克隆后将 `SKILL.md` 放入你的技能目录或作为上下文引入即可。
+
 ### 快速开始
 
 1. **阅读 SKILL.md**：理解5个思维模型和7个启发式
@@ -172,7 +199,9 @@ MIT License
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- GitHub Issues
+- GitHub Issues：https://github.com/afishing/YueChu-skill/issues
+- Gitee 仓库：https://gitee.com/afishing/YueChu-skill
+- SkillHub 包名：`yuechu-skill`
 - OpenClaw 社区：https://discord.com/invite/clawd
 
 ---
